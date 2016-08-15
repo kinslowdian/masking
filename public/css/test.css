@@ -1,0 +1,10 @@
+
+.test
+{
+	width: 100px;
+	height: 100px;
+	background: #fff;
+	position: absolute;
+	right: 10px; top: 10px;
+	cursor: pointer;
+}
